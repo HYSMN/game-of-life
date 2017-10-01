@@ -8,7 +8,7 @@
     <title>The Game Of Life</title>
     <style type="text/css">
         h2 {
-            color: blue;
+            color: black;
             font-family: sans-serif;
         }
 
@@ -19,7 +19,7 @@
             padding: 8px;
             text-align: justify;
             color: rgb(25, 25, 25);
-            margin: 6px;
+            margin: 4px;
         }
 
         .footer {
