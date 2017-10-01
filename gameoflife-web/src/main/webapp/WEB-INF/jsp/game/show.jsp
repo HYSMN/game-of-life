@@ -19,11 +19,11 @@
             padding: 8px;
             text-align: justify;
             color: rgb(25, 25, 25);
-            margin: 4px;
+            margin: 6px;
         }
 
         .footer {
-            color: blue;
+            color: red;
             font-size: small;
             text-align: right;
             background-color: silver;
