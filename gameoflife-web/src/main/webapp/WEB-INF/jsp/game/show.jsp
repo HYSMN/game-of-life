@@ -59,7 +59,7 @@
 
         .breadcrumbs {
             font-family: sans-serif;
-            color: blue;
+            color: black;
         }
 
         h4 {
